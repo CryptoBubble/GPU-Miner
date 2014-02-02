@@ -1,0 +1,1 @@
+radioactivecoinminer.exe --scrypt -o poolipandport  -u poolusername -p poolpassword  --scrypt --Nfmin 4 --Nfmax 30 --StartT 1389196388 

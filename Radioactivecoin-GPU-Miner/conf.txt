@@ -1,0 +1,3 @@
+Settings for GPU Mining Radioactivecoins
+
+--Nfmin 4 --Nfmax 30 --StartT 1389196388

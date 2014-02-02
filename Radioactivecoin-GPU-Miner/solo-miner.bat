@@ -1,0 +1,1 @@
+radioactivecoinminer -o 127.0.0.1:23556 -u confusername -p configpassword --scrypt --Nfmin 4 --Nfmax 30 --StartT 1389196388 
